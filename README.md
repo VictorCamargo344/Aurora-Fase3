@@ -240,3 +240,13 @@ Ações recomendadas:
 ## Objetivo Acadêmico
 
 O projeto foi desenvolvido com o objetivo de integrar os conteúdos estudados ao longo da disciplina em uma solução computacional única, demonstrando como lógica, estruturas de dados e modelagem matemática podem ser utilizadas para criar sistemas inteligentes capazes de monitorar, prever e otimizar recursos energéticos.
+
+# Integrantes 
+- Victor de Camargo Gomes:
+  victor.camargog24@gmail.com
+
+- Pietra Fanticelli:
+pf.pietrafanticelli@gmail.com
+
+- Rafael Gonçalves de Souza Pereira:
+rafagonpereira12@gmail.com
