@@ -1,5 +1,11 @@
 # Sistema Inteligente de Gerenciamento Energético da Colônia Aurora Siger (SIGER-3)
 
+## Equipe
+- Lucas Araujo de Carvalho
+- Pietra Fanticelli
+- Rafael Gonçalves de Souza Pereira
+- Victor de Camargo Gomes
+
 ## Descrição do Projeto
 
 O projeto SIGER-3 (Sistema Inteligente de Gerenciamento Energético e Resposta da Colônia) foi desenvolvido com o objetivo de representar o funcionamento inteligente da colônia fictícia Aurora Siger, localizada em Marte, na região de Hellas Planitia.
@@ -17,6 +23,15 @@ O sistema integra conceitos estudados ao longo da disciplina, como:
 A aplicação foi desenvolvida em Python e simula o gerenciamento energético da colônia, monitorando geração solar e eólica, consumo energético, reserva de energia, condições ambientais e prioridade dos módulos operacionais.
 
 ---
+## Estrutura do Repositório 
+
+```
+siger3/
+├── .gitignore         # Arquivos e pastas ignorados pelo Git
+├── README.md          # Documentação principal do projeto
+├── script.ipynb       # Notebook com o código do sistema SIGER-3
+└── relatorio.pdf      # Relatório explicativo do projeto
+```
 
 # Objetivos do Sistema
 
@@ -206,7 +221,8 @@ Desligamento de módulos menos prioritários.
 ```python
 geracao = 40
 consumo = 70
-reserva = 60
+reserva_pct = 60
+temp_ext = -63
 vento = 15
 ```
 ## Exemplo de Saída
