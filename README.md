@@ -1,11 +1,5 @@
 # Sistema Inteligente de Gerenciamento Energético da Colônia Aurora Siger (SIGER-3)
 
-## Equipe
-- Lucas Araujo de Carvalho
-- Pietra Fanticelli
-- Rafael Gonçalves de Souza Pereira
-- Victor de Camargo Gomes
-
 ## Descrição do Projeto
 
 O projeto SIGER-3 (Sistema Inteligente de Gerenciamento Energético e Resposta da Colônia) foi desenvolvido com o objetivo de representar o funcionamento inteligente da colônia fictícia Aurora Siger, localizada em Marte, na região de Hellas Planitia.
